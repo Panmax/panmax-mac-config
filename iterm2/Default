@@ -1,4 +1,6 @@
 {
+"Profiles": [
+{
   "Use Non-ASCII Font" : true,
   "Tags" : [
 
@@ -353,4 +355,6 @@
   },
   "Transparency" : 0.033443052030456853,
   "Custom Directory" : "No"
+}
+]
 }
